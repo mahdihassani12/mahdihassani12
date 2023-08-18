@@ -19,9 +19,9 @@ Software Engineer - I am a professional technical programmer with experience of 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdihassani12&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mahdi Hassani" />
 </p>
   
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mahdihassani12&count_private=true&show_icons=true&locale=en&theme=dark" alt="Mahdi Hassani" />
-</p>
+</p> -->
 
 ## 🔗 Links
 
