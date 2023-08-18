@@ -15,8 +15,6 @@ Software Engineer - I am a professional technical programmer with experience of 
   
 </p>
 
-<br>
-
 ## 🔗 Links
 
 <p align="center">
